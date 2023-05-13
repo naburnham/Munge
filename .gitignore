@@ -1,0 +1,12 @@
+main
+
+createPassword
+createPasswordHashes
+
+wordlist
+wordlist/*
+
+munged.txt
+hashes
+
+*.rule
